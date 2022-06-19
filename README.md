@@ -37,4 +37,7 @@
 ### T-Test on Lot 3
 ![image](https://user-images.githubusercontent.com/99369565/174501974-5e1a1b9a-39aa-4e80-9a1f-58d3cbfad8d6.png)
 
+## Study Design: MechaCar vs Competition
+
+
 
