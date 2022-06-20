@@ -43,6 +43,17 @@ Stated in the total summary table below, the suspension coils have a variance of
 ![image](https://user-images.githubusercontent.com/99369565/174501974-5e1a1b9a-39aa-4e80-9a1f-58d3cbfad8d6.png)
 
 ## Study Design: MechaCar vs Competition
+Using my knowledge of R, I have designed a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers. Using critical thinking about what metrics would be of interest to a consumer, I have chosen to analyse: cost and highway fuel efficiency by using horse power, maintenance cost, and safety rating data provided by MechaCars and their competitors.
 
+### Hypothesis
+#### Null Hypothesis:
+There is no difference between MechaCars and its competitors in any metrics tested.
 
+#### Alternative Hypothesis:
+MechaCars and its competitors differ in all metrics.
 
+### Statistical Test
+I will use a two sample t-test to compare the means from MechaCars and its competitors, then I will perform t-tests to determine which the difference in means.
+
+### Data Requirements
+I would need a large data set to complete this study from both MechaCars and its competitors, or I could work with the averages, standard deviations, and number of observations of all metrics stated.
