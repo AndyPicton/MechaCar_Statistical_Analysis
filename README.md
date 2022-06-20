@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/99369565/174500985-d6d7c9b6-d112-4121-836a-baba78ab2103.png)
 
 #### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-The variables/ coefficients with a pr(>|t|) value larger than the significance level of 0.05 provice a non-random amount of variance to the dataset. 
+The variables/ coefficients with a pr(>|t|) value larger than the significance level of 0.05 provide a non-random amount of variance to the dataset. 
 
 #### Is the slope of the linear model considered to be zero? Why or why not?
 Stated in the linear regression summary, the p-value is 5.35e-11, which is lower than the significance level of 0.05. This tell us that the slope of the line is not zero.
@@ -20,7 +20,7 @@ The multiple R-squared value of .7149 tells us that the model can predict the mp
 ## Summary Statistics on Suspension Coils
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
 
-Stated in the total summary table below, the suspension coils have a variance of 62.29 which does not exceed the maximum variance allowed, but looking at Lot 3 in the Lot Summary table, it has a variance of 170.29 which greatly exceeds the masimum variance allowed at 100 lbs per square in.
+Stated in the total summary table below, the suspension coils have a variance of 62.29 which does not exceed the maximum variance allowed, but looking at Lot 3 in the Lot Summary table, it has a variance of 170.29 which greatly exceeds the maximum variance allowed at 100 lbs per square in.
 
 ### Total Summary
 ![image](https://user-images.githubusercontent.com/99369565/174501660-3f51dc99-e1ed-43bf-811e-77ee57afc2b1.png)
